@@ -16,6 +16,10 @@ Topics include Scala, Spark, Functional programming
 ### Tools ###
 - Scala 3
 - Spark
-- SBT
-- Akka
+- sbt (simple build tool)
+- [Akka](https://www.lightbend.com/akka)
 - VSCode or IDEA
+
+### Repository structure ###
+- [Source Code](./CSYE-7200)
+- [Class notes](./classnotes)
