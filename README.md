@@ -10,4 +10,12 @@ using.
 
 Topics include Scala, Spark, Functional programming
 
-Textbook: Functional Programming in Scala—Pilquist, Bjarnason, and Chiusano, Manning (2nd edition)
+### Textbook ### 
+- Functional Programming in Scala—Pilquist, Bjarnason, and Chiusano, Manning (2nd edition)
+
+### Tools ###
+- Scala 3
+- Spark
+- SBT
+- Akka
+- VSCode or IDEA
