@@ -23,3 +23,6 @@ Topics include Scala, Spark, Functional programming
 ### Repository structure ###
 - [Source Code](./CSYE-7200)
 - [Class notes](./classnotes)
+
+### Resources ###
+[Rock the JVM Playlist](https://www.youtube.com/@rockthejvm)
